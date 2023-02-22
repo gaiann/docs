@@ -6,7 +6,10 @@
 
 + [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
+
 ## open-assistant.io
+
++ [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 
 + [https://www.youtube.com/watch?v=64Izfm24FKA](https://www.youtube.com/watch?v=64Izfm24FKA)
 
