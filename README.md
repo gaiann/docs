@@ -2,7 +2,7 @@
 
 ## video education, chat
 
-+ [Understanding AI Chat Bots With Stanford Online | Hackaday](https://hackaday.com/2023/02/08/understanding-ai-chat-bots-with-stanford-online/)
++ [Understanding AI Chat Bots With Stanford Online](https://hackaday.com/2023/02/08/understanding-ai-chat-bots-with-stanford-online/)
 
 + [Let's build GPT: from scratch, in code, spelled out. - YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
