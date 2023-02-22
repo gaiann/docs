@@ -9,6 +9,12 @@
 
 ## open-assistant.io
 
++ [Open Assistant](https://projects.laion.ai/Open-Assistant/)
+
++ [LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
+
++ [presentation](https://docs.google.com/presentation/d/1n7IrAOVOqwdYgiYrXc8Sj0He8krn5MVZO_iLkCjTtu0/edit#slide=id.g1c27a3078af_0_1369)
+
 + [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 
 + [https://www.youtube.com/watch?v=64Izfm24FKA](https://www.youtube.com/watch?v=64Izfm24FKA)
