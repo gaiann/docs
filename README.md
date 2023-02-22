@@ -4,7 +4,9 @@
 
 + [Understanding AI Chat Bots With Stanford Online](https://hackaday.com/2023/02/08/understanding-ai-chat-bots-with-stanford-online/)
 
-+ [Let's build GPT: from scratch, in code, spelled out. - YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
++ [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+## open-assistant.io
 
 + [https://www.youtube.com/watch?v=64Izfm24FKA](https://www.youtube.com/watch?v=64Izfm24FKA)
 
@@ -12,6 +14,9 @@
 + Homepage: https://ykilcher.com
 + Merch: https://ykilcher.com/merch
 
+## another platforms
+
++ [LAION](https://laion.ai/)
 
 ## cloud
 
