@@ -14,6 +14,8 @@
 
 ## open-assistant.io
 
++ [faq - Open Assistant](https://projects.laion.ai/Open-Assistant/docs/faq)
+
 + [Open Assistant](https://projects.laion.ai/Open-Assistant/)
 
 + [LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
