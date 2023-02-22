@@ -1,5 +1,10 @@
 # docs.gaiann.com
 
+## Chat bot discord
+
++ [Open-Assistant/discord-bot at main · LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant/tree/main/discord-bot)
+
+
 ## video education, chat
 
 + [Understanding AI Chat Bots With Stanford Online](https://hackaday.com/2023/02/08/understanding-ai-chat-bots-with-stanford-online/)
