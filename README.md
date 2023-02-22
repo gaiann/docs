@@ -14,6 +14,8 @@
 
 ## open-assistant.io
 
++ [LAION AI Repositories](https://github.com/orgs/LAION-AI/repositories?type=all)
+
 + [faq - Open Assistant](https://projects.laion.ai/Open-Assistant/docs/faq)
 
 + [Open Assistant](https://projects.laion.ai/Open-Assistant/)
