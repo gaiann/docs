@@ -1,13 +1,20 @@
 # docs.gaiann.com
 
-## chat
+## video education, chat
 
 + [Understanding AI Chat Bots With Stanford Online | Hackaday](https://hackaday.com/2023/02/08/understanding-ai-chat-bots-with-stanford-online/)
 
 + [Let's build GPT: from scratch, in code, spelled out. - YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
++ [https://www.youtube.com/watch?v=64Izfm24FKA](https://www.youtube.com/watch?v=64Izfm24FKA)
+
++ Help us collect data for OpenAssistant, the largest and most open alternative to ChatGPT. https://open-assistant.io
++ Homepage: https://ykilcher.com
++ Merch: https://ykilcher.com/merch
+
 
 ## cloud
+
 + [Cloud Free Tier | Oracle Polska](https://www.oracle.com/pl/cloud/free/)
 
 
