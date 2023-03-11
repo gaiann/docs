@@ -46,3 +46,14 @@
 + [15 kilometre LoRa SSH link with RNode | unsigned.io](https://unsigned.io/15-kilometre-ssh-link-with-rnode/)
 + [SDRangel Now Available on Android: Mobile ADS-B, AIS, APT, Digital Voice, POCSAG, APRS, RS41 Radiosonde Decoders](https://www.rtl-sdr.com/sdrangel-now-available-on-android-mobile-ads-b-ais-apt-digital-voice-pocsag-aprs-rs41-radiosonde-decoders/)
 + [SparkFun LoRa Gateway 868/915MHz - 1 - kanałowa bramka sieciowa ESP32, RFM95W - SparkFun WRL-18074 Sklep Botland](https://botland.com.pl/moduly-radiowe/19510-sparkfun-lora-gateway-868915mhz-1-kanalowa-bramka-sieciowa-esp32-rfm95w-sparkfun-wrl-18074-5904422370299.html)
+
+
+## chatGPT
+
+[What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
+> That [ChatGPT](https://chat.openai.com/) can automatically generate something that reads even superficially like human-written text is remarkable, and unexpected. But how does it do it? And why does it work? My purpose here is to give a rough outline of what’s going on inside ChatGPT—and then to explore why it is that it can do so well in producing what we might consider to be meaningful text. I should say at the outset that I’m going to focus on the big picture of what’s going on—and while I’ll mention some engineering details, I won’t get deeply into them. (And the essence of what I’ll say applies just as well to other current “large language models” \[LLMs\] as to ChatGPT.)
+
+
+---
++ [edit](https://github.com/gaiann/docs/edit/main/README.md)
