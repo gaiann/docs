@@ -55,5 +55,20 @@
 > That [ChatGPT](https://chat.openai.com/) can automatically generate something that reads even superficially like human-written text is remarkable, and unexpected. But how does it do it? And why does it work? My purpose here is to give a rough outline of what’s going on inside ChatGPT—and then to explore why it is that it can do so well in producing what we might consider to be meaningful text. I should say at the outset that I’m going to focus on the big picture of what’s going on—and while I’ll mention some engineering details, I won’t get deeply into them. (And the essence of what I’ll say applies just as well to other current “large language models” \[LLMs\] as to ChatGPT.)
 
 
+### ChatGPT API
+
+[Image generation - OpenAI API](https://platform.openai.com/docs/guides/images/introduction)
+
+> The [image generations](https://platform.openai.com/docs/api-reference/images/create) endpoint allows you to create an original image given a text prompt. Generated images can have a size of 256x256, 512x512, or 1024x1024 pixels. Smaller sizes are faster to generate. You can request 1-10 images at a time using the [n](https://platform.openai.com/docs/api-reference/images/create#images/create-n) parameter.
+
+```python
+response = openai.Image.create(
+  prompt="a white siamese cat",
+  n=1,
+  size="1024x1024"
+)
+image_url = response['data'][0]['url']
+```
+
 ---
 + [edit](https://github.com/gaiann/docs/edit/main/README.md)
