@@ -63,5 +63,25 @@ response = openai.Image.create(
 image_url = response['data'][0]['url']
 ```
 
+
+## tutorials
+
+
++ [Building a chatbot using OpenAI's GPT-3 engine, Twilio SMS and Python (2023)](https://enster-info.randvatar.com/article/building-a-chatbot-using-openai-s-gpt-3-engine-twilio-sms-and-python)
+
+
+
+## opensource
+[Python Chatterbot Tutorial Edureka at DuckDuckGo](https://duckduckgo.com/?t=ffab&q=Python+Chatterbot+Tutorial+Edureka+&atb=v333-1&ia=web)
+
++ [gaiann/ai-alt-text-generator](https://github.com/gaiann/ai-alt-text-generator)
++ [gaiann/test-english-ai](https://github.com/gaiann/test-english-ai)
++ 
+
+
+
+
+
+
 ---
 + [edit](https://github.com/gaiann/docs/edit/main/README.md)
