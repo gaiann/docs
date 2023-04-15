@@ -1,5 +1,9 @@
 # docs.gaiann.com
 
+
+## Space
+
+
 ## Chat bot discord
 
 + [Open-Assistant/discord-bot at main · LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant/tree/main/discord-bot)
