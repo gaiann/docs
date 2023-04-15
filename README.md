@@ -8,6 +8,15 @@
 
 + [Open-Assistant/discord-bot at main · LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant/tree/main/discord-bot)
 
+## chatgpt
+
++ [Zabaware - Intelligent Machines](https://www.zabaware.com/#page=/loebner.html;)
+
+
+
+
+
+
 
 ## video education, chat
 
